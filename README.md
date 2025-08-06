@@ -5,4 +5,3 @@ Este repositorio acompaña el curso **"Automatización de Front "**. Aprenderás
 - Java JDK 11 o superior
 - IntelliJ IDEA (recomendado)
 - Maven
-- Karate (`karate-junit5`)
